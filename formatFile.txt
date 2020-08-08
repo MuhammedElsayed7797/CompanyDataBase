@@ -1,0 +1,22 @@
+
+please enter employee's name with max length %d : 
+entered name must contain only characters
+.%151[^
+]s.
+please enter employee's phone number with max length %d : 
+entered must contain only number
+.%12[^
+=]s.
+please enter employee's email with max length %d : 
+entered email must contain only (dot,_) as special characters
+.%101[^
+]s.
+please enter employee's birth date with max length %d : 
+entered date must be on form (DD/MM/YYYY) (01/07/1995)\nyear entered must be in rang (1957~1996)
+.%11[^
+]s.
+please enter employee's job_title with max length %d : 
+entered name must be as same as in file (CompanyInfo) any succesive
+white spaces will be ignored
+.%101[^
+]s.
